@@ -37,7 +37,7 @@ This is a responsive front-end Netflix clone landing page created using **HTML**
 
 **Akalya S T**  
 🚀 Aspiring Full-Stack Developer | Passionate about Web Development  
-📧 [Your Email] | 🌐 [Your Portfolio/LinkedIn]
+📧akalyaakalya590@gmail.com | 🌐 https://www.linkedin.com/in/akalya-s-t-8aaba12a0/
 
 ## 📄 License
 
