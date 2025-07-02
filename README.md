@@ -31,7 +31,7 @@ This is a responsive front-end Netflix clone landing page created using **HTML**
 
 ## 📸 Preview
 
-![Netflix Clone Preview](preview.png) *(Add a screenshot of your project if available)*
+![Netflix Clone Preview](page1.png,page2.png) 
 
 ## 🙋‍♀️ Author
 
